@@ -1,0 +1,1 @@
+//creamos una app que tome decisiones por si sola
